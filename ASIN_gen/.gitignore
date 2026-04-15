@@ -1,0 +1,5 @@
+# Sensitive auth/cookie data
+auth_us.json
+
+# Generated Excel outputs
+*.xlsx
